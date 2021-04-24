@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kaique-Freitas
-- 👀 I’m interested in Development Full-Stack
-- 🌱 I’m currently learning NodeJs and ReactJs
-- 💞️ I’m looking to collaborate in a development company
+- 👀 I’m interested in Development Front-End
+- 🌱 I’m currently learning ReactJs and NextJs
 - 📫 Contact us at kaique7vitor@gmail.com or https://www.linkedin.com/in/kaique-freitas-279010208
 
 <!---
