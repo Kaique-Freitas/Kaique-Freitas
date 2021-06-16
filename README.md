@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Kaique-Freitas
-- 👀 I’m interested in Development Front-End
-- 🌱 I’m currently dedicating myself in ReactJs and NextJs
+- Experience in: 
+JavaScript, React.Js, HTML, CSS, Git, GitHub, Linux, Tailwind.
+
+- Knowledge in: 
+Node, Next, TypeScript, MongoDB, Sass, Bootstrap.
+
+- I'm currently bootcamping in ReactJs
+
 - 📫 Contact us at kaiquefreitas@outlook.pt or https://www.linkedin.com/in/kaique-freitas
 
-<!---
-Kaique-Freitas/Kaique-Freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
