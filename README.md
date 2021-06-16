@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaique-Freitas
+# 👋 Hi, I’m @Kaique-Freitas
 - Experience in: 
 JavaScript, React.Js, HTML, CSS, Git, GitHub, Linux, Tailwind.
 
