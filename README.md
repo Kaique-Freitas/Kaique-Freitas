@@ -14,7 +14,8 @@ I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, a
 <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
 </div>
 </div>
---------------------------------------------------
+
+-----------------------------------------------------
 
 #### I took a full stack web development course  
 #### I attended IGTI's React bootcamp
