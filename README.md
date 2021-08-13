@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Kaique-Freitas
+## 👋 Hi, I’m @Kaique-Freitas - Full-Stack Developer
 
 ### Experience with: 
 - JavaScript, React.Js, Node.Js, MySQL, Tailwind, Git, GitHub, Linux
