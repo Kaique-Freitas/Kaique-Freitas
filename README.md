@@ -16,6 +16,6 @@
 
 -----------------------------------------------------
 
-- 📫 Contact us at kaiquefreitas@outlook.pt or [![LinkedIn Badge](https://img.shields.io/badge/-Kaique%20Freitas%20F.%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-freitas/)](https://www.linkedin.com/in/kaique-freitas/) 
+- 📫 Contact us at kaiquefreitas@outlook.pt or [![LinkedIn Badge](https://img.shields.io/badge/-Kaique%20Freitas%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-freitas/)](https://www.linkedin.com/in/kaique-freitas/) 
 
 
