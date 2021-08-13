@@ -12,7 +12,7 @@
 #### I attended IGTI's React bootcamp
 
 
-### 📗 I am currently studying Rocketseat Ignite
+### 📗 I am currently studying Ignite at Rocketseat
 
 -----------------------------------------------------
 
