@@ -9,6 +9,7 @@
 #### I took a full stack web development course  
 #### I attended IGTI's React bootcamp
 
+
 ### 📗 I am currently studying Rocketseat Ignite
 
 
