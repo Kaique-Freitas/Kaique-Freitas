@@ -3,7 +3,7 @@
 I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Ignite at Rocketseat, where I am learning in practice on the most modern technologies of web and mobile development.
 
 ### Experience with: 
-- JavaScript, React.Js, Next.Js, Node.Js, MySQL, Tailwind, Git, GitHub, Linux
+- JavaScript, TypeScript, React.Js, Next.Js, Node.Js, MySQL, Tailwind, Git, GitHub, Linux
 
 ---------------------------------------------------
 
