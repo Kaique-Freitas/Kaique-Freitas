@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Kaique-Freitas - Full-Stack Developer
+## 👋 Hi, I’m @Kaique-Freitas - Full-Stack Developer - Work at FBenevides Tecnologia
 
 I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, and React Native. I'm a student at Bootcamp Ignite at Rocketseat, where I am learning in practice on the most modern technologies of web and mobile development.
 
