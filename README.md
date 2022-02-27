@@ -5,7 +5,7 @@ I have experience with projects using JavaScript, Typescript, NodeJS and ReactJS
 ### Experience with: 
 <!-- - JavaScript, TypeScript, React.Js, Next.Js, Node.Js, MySQL, Tailwind, Git, GitHub, Linux -->
 <br/>
-<p>
+<p justifyContent="space-between">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
