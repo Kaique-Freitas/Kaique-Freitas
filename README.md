@@ -45,7 +45,7 @@ I have experience with projects using JavaScript, Typescript, NodeJS and ReactJS
 
 -----------------------------------------------------
 
-- 📫 Contact us at [![Hotmail Badge](https://img.shields.io/badge/-kaiquefreitas@outlook.pt-blue?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:kaiquefreitas@outlook.pt)](mailto:kaiquefreitas@outlook.pt)
+- 📫 Contact me by [![Hotmail Badge](https://img.shields.io/badge/-kaiquefreitas@outlook.pt-blue?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:kaiquefreitas@outlook.pt)](mailto:kaiquefreitas@outlook.pt)
  or [![LinkedIn Badge](https://img.shields.io/badge/-Kaique%20Freitas%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-freitas/)](https://www.linkedin.com/in/kaique-freitas/) 
 
 
