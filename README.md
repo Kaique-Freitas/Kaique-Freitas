@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Kaique-Freitas - Full-Stack Developer - Working at FBenevides Tecnologia
+## 👋 Hi, I’m @Kaique-Freitas - Full-Stack Developer - Working at Triforsys Systems
 
 I have experience with projects using JavaScript, Typescript, NodeJS and ReactJS.
 
