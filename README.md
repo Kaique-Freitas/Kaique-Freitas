@@ -28,15 +28,6 @@ I have experience with projects using JavaScript, Typescript, NodeJS and ReactJS
 
 </div>
 
------------------------------------------------------
-
-#### I took a full stack web development course  
-#### I attended IGTI's React bootcamp
-
-
-### 📗 I am currently studying Ignite at Rocketseat
-
------------------------------------------------------
 
 - 📫 Contact me by email@kaiquefreitas.com, [![LinkedIn Badge](https://img.shields.io/badge/-Kaique%20Freitas%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaique-freitas/)](https://www.linkedin.com/in/kaique-freitas/)  or https://kaiquefreitas.com
 
